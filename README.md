@@ -1,7 +1,17 @@
-- 👋 Hi, I’m @dark7lord
-- 👀 I’m interested in games, arts, musoc
-- 🌱 I’m currently learning JS, C/C++, Java
-- 💞️ I’m looking to collaborate on School 21
+# Dark7Lord
+*  G***root*** Opal
+* or gopal
+* Valerii Gaisin
+
+![gopal's stats](https://badge42.herokuapp.com/api/stats/gopal)
+## Интересненько
+* 👋 Hi, I’m Groot (не мог этого не сказать)
+* * I’m interested:
+* * *Games* **Sekiro**
+* * *Arts* **Jam's Stuff**
+* * *Music* **Monstercat**
+* I’m currently learning **JS**, **C/C++**, **Java**, **Rust**, **3D**
+* I’m looking to collaborate on School 21
 
 <!---
 dark7lord/dark7lord is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
