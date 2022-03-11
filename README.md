@@ -3,7 +3,8 @@
 * or gopal
 * Valerii Gaisin
 
-![gopal's stats](https://badge42.herokuapp.com/api/stats/gopal)
+
+![My Codewarrior Profile Badge](https://www.codewars.com/users/dark7lord/badges/large)
 ## Интересненько
 * 👋 Hi, I’m Groot (не мог этого не сказать)
 * * I’m interested:
@@ -17,3 +18,4 @@
 dark7lord/dark7lord is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![gopal's stats](https://badge42.herokuapp.com/api/stats/gopal)
