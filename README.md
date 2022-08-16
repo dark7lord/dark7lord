@@ -2,8 +2,6 @@
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/dark7lord/badges/large)
 
-[![gopal's 42 stats](https://badge42.vercel.app/api/v2/cl450fwm4003009l5svlh941x/stats?cursusId=21&coalitionId=102)](https://github.com/JaeSeoKim/badge42)
-
 *  G***root*** Opal
 * or gopal
 * Valerii Gaisin
