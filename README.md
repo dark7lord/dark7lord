@@ -1,6 +1,6 @@
 # Dark7Lord
 
-![My Codewarrior Profile Badge](https://www.codewars.com/users/dark7lord/badges/large)
+![My Codewarrior Profile Badge](https://www.codewars.com/users/dark7lord2012/badges/large)
 
 *  G***root*** Opal
 * or gopal
