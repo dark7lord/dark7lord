@@ -1,10 +1,6 @@
-# Dark7Lord
+# Valerii Gaisin
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/groot_opal/badges/large)
-
-*  G***root*** Opal
-* or gopal
-* Valerii Gaisin
 ## Об интересах
 * 👋 Hi, I’m Groot
 * * I’m interested:
